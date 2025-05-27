@@ -1,0 +1,30 @@
+        {
+            "Category": "",
+            "Worlds": [
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                
+            ]
+        },
