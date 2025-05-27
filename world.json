@@ -1308,7 +1308,7 @@
                     }              
                 },
                 {
-                    "ID": "world/wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6",
+                    "ID": "wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6",
                     "Name": "8Questions",
                     "RecommendedCapacity": 8,
                     "Capacity": 8,
