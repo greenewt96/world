@@ -1308,18 +1308,6 @@
                     }              
                 },
                 {
-                    "ID": "wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6",
-                    "Name": "8Questions",
-                    "RecommendedCapacity": 8,
-                    "Capacity": 8,
-                    "Description": "［JP⁄EN］ Solve the 8 questions․ All gimmicks are local․",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }              
-                },
-                {
                     "ID": "wrld_b8f09a42-c6db-44c6-9649-d858b75d1fd5",
                     "Name": "探偵・謎川事件譚-仮想現実殺人事件-⁄satsujinjiken",
                     "RecommendedCapacity": 20,
@@ -1330,6 +1318,18 @@
                         "PC": true,
                         "Android": true
                     }
+                },
+                {
+                    "ID": "wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6",
+                    "Name": "8Questions",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 8,
+                    "Description": "［JP⁄EN］ Solve the 8 questions․ All gimmicks are local․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
                 },
                 {
                     "ID": "wrld_20bfc007-852a-42df-acd3-0d4caeae368f",
