@@ -1,1 +1,1709 @@
-aaaa
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+        {
+            "Category": "favorite",
+            "Worlds": [
+                {
+                    "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7/info",
+                    "Name": "Astral Bounds",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "V1․44 - A wall to preserve the edge of the world from being filled up by reality․ Recent Update˸ Made whales slightly easier to ride․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_a6b250e5-4aa0-4607-8260-4ef51b125ed0/info",
+                    "Name": "Maybe‚ Unobservable",
+                    "RecommendedCapacity": 15,
+                    "Capacity": 30,
+                    "Description": "魚たちにとって，この部屋の向こう側は観測不可能な宇宙？ - I wonder if beyond this room is the unobservable universe for fish․ Sound Effects˸ yuugen6 （https˸⁄⁄vprof․me⁄＠⁄yuugen6）",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_320bff3b-6164-4265-9ff2-d3b1adb1dafb/info",
+                    "Name": "Stay gold",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 24,
+                    "Description": "Don't set your own limits․ You can be anythingǃǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_61c40c8f-68c9-4e78-8242-b48a9c0f4054/info",
+                    "Name": "Abyssal",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 20,
+                    "Description": "The sea‚ The sea",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_c1852f7c-0656-4825-8e16-4bb86491b4b0/info",
+                    "Name": "fallen blue",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 12,
+                    "Description": "『青く、青く、堕ちて』 水音と鯨の声を聞きながらリラックスしてもらえると嬉しいです。 2025⁄02⁄22 joinサウンド、布団をしまえるように",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_0804dea8-cc2a-4050-b730-c6be4d6d5a88/info",
+                    "Name": "Crystal Clear Pool",
+                    "RecommendedCapacity": 6,
+                    "Capacity": 12,
+                    "Description": "ガラスで出来たプールの下にまったりできる部屋があるワールドです。 Crystal Clear Pool ＆ Cozy Room",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_0070e9c7-e484-41fb-be92-a09355ece9cf/info",
+                    "Name": "溺死の夢 - Dream of Drowning",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "天窓から降る雨がゆっくりと水かさを増し、穏やかに沈んでいく空間。睡眠やリラックスにどうぞ。約一時間で水位が最大になります。Rain gently falls through the skylight‚ gradually raising the water level as you peacefully sink․ Perfect for sleep and relaxation․ The water level reaches its maximum in about an hour․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9/info",
+                    "Name": "Gallery 2718702a",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 40,
+                    "Description": "常設展「額縁の庇護を逃れて」",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0/info",
+                    "Name": "SoundLab",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "音響システムWavePathSystemとその他技術検証ワールドです。音の位置や反響をよりリアルに再現し、聞く位置や環境によって音が変化します。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },                
+                {
+                    "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8/info",
+                    "Name": "Hidden Bar【SnackC】",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "不定期RPイベント＂CW-SnackC-＂使用ワールド。落ち着く雰囲気を楽しめる隠れたバー。 イベント仕様の為非公開かつ、センシティブに該当する行為での使用は禁止です。 Created by yanagi_the55th⁄Client by Shaile-ｼｪｲﾙ-․ A cozy retreat where you can enjoy a relaxed atmosphere․",
+                    "ReleaseStatus": "private",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                }                
+            ]
+        },
+        {
+            "Category": "改変",
+            "Worlds": [
+                {
+                    "ID": "wrld_caf693fd-69c4-4304-b145-71463a6cecb6/info",
+                    "Name": "アバター改変作業をするためだけのワールド",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "フィギュアシステム、AudioLink、調整可能なbloomやライト、FPS Viewer、移動速度変更など、アバター改変作業向けのギミックを置いています！但しAndroidでは正常に動作しないギミックがあります。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_92f472fd-eb62-43a0-98ee-caf56d4935d6/info",
+                    "Name": "Momoma Avatar Testing",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "This world is for avatar testing․ There are a Super Doppelganger System‚ a polygon visualizer‚ a normal visualizer‚ a bone visualizer and simple pickupable lights․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_88524b47-aedc-4bf1-900b-b0d1c5d670ea/info",
+                    "Name": "QAi Check World",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 16,
+                    "Description": "A world to check the appearance of your avatar on Quest （Android） or iOS",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_7fc407cc-439d-4a42-a2a1-9b22177d608e/info",
+                    "Name": "RenderQueue Debug World",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 32,
+                    "Description": "RenderQueue Debug World",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_d59a49dc-9e7e-43eb-91b3-471980bc81d8/info",
+                    "Name": "HaneBall",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "A sample of real-time lighting using VRC Light Volumes․ Paying homage to Hanenbow （Electroplankton）",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        },
+        {
+            "Category": "chill・relaxing・explore",
+            "Worlds": [
+                {
+                    "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7/info",
+                    "Name": "Astral Bounds",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "V1․44 - A wall to preserve the edge of the world from being filled up by reality․ Recent Update˸ Made whales slightly easier to ride․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_340bb99d-b515-46c6-a6d9-9b977a18e8fb/info",
+                    "Name": "Cafe Lapin",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 16,
+                    "Description": "地下にあるモダンな喫茶店【カフェ ラパン】です。12席座れます。レコードプレイヤー、サイフォンギミック、紅茶ギミック、カルピスギミック、頭上タグ、Qvpen、散らかし防止ギミックあり。Quest対応はβです。This is a modern coffee shop ［Cafe Lapin］ located in the basement․ 12 seats can be seated․ Record player‚ siphon gimmick‚ tea gimmick‚ calpis gimmick‚ overhead tag‚ Qvpen‚ and anti-mess gimmick are available․Quest support is beta！【v20250401】",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_7f3a6077-0183-4097-a837-f59e3f9d4a16/info",
+                    "Name": "Pepiement",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "渋谷のガード下を抜けて幻想的な海辺のパビリオンへ ⁄⁄ Hashtag ˸ ＃Pepiement3D",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_e9ca960a-7b7b-4b2d-8133-5fe3d074512e/info",
+                    "Name": "Starfarer",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 80,
+                    "Description": "A train headed for the center of the cosmos‚ where wishes are granted․ All music in world is stream-safe․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_60ad965e-e137-49c5-a7cd-bf80265c48d9/info",
+                    "Name": "雨音 Sound of rain",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ただの部屋です。一人でゆっくりしたいので作りました。ギミックも特にないです。イベントカレンダー・AvatarNow・ハンドメニューにナイトモードあります。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_e13c9c14-0da2-43fb-a9cb-dc65b41ff2e7/info",
+                    "Name": "水底のワンルーム-Deep Blue Hideaway-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "初めて作ったワールドです。YamaPlayer、RBSベッドギミック、QvPen、Imagepadなどあります。歓談、V睡等に",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_22acf040-22c8-4baa-acdb-56227a11c1ea/info",
+                    "Name": "おやすみみずうみ - Garden in amber -",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "色づいた木の葉とススキの揺れる湖上から、琥珀色に透き通った水のなかへ・・・時間の流れが緩やかになる場所を辿って降りてゆきましょう The tranquil amber-hued lake involves both water surface and underwater spaces with cozy hallways‚ gardens‚ a bathroom‚ and several bedrooms‚ all creating a peaceful atmosphere․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_74682eb7-26a6-4eb6-9393-5025c22990e1/info",
+                    "Name": "べりのたき",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "動作が重い場合は入口のミラーをOFFにして下さい",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_ecc56c7e-09f7-44ec-be4c-6982a2c604ef/info",
+                    "Name": "Just Zero Gravity Spaceship",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "Just Zero Gravity Spaceship",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_020d2f7f-d586-4ded-8a70-d5245201a638/info",
+                    "Name": "陽射しの廃駅-Abandoned station in the sunshine",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 15,
+                    "Description": "BGM˸sea no -足跡",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_081568d8-3f1b-493b-bf0c-ecfe81400ae2/info",
+                    "Name": "Naroom ［Luminous Akihabara］",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Naroom Luminous Akihabara なるがみさん（＠nalgami）の依頼で制作したLuminousHotel系列のワールドです。 実写撮影による秋葉原の夜景をお楽しみください。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_550e0807-b0b5-492a-9490-b4b9a5625559/info",
+                    "Name": "新宿-The Apartment",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 60,
+                    "Description": "自動販売機 Chill ＆ Avatars VideoPlayer Games",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_6ae24d40-2fa8-4e6e-88df-c979a5db7653/info",
+                    "Name": "星屑の原",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "雨上がりは大気中の塵が少なくなって星空が良く見えるそうですね。 BGM˸end of the day／written by˸魔王魂 様",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_2d04d462-333e-4e82-8d52-c2a326615eb5/info",
+                    "Name": "Rainfall Abyss -Aqua Sector-",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 80,
+                    "Description": "雨見市第五雨水処理場の、見捨てられたようなトンネルの奥には、テラフォーミング時に持ち込まれた、生物多様性の為の水槽が横たわっている。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5/info",
+                    "Name": "月に君影",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ワールド名の君影は「君影草」（＝スズランの異称）から取っています。 BGM˸孤独と共に／written by˸ゆうり 様",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_cde3f509-36bf-445e-9dd5-498a181bd792/info",
+                    "Name": "Glowing Jellyfish",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 30,
+                    "Description": "-",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3/info",
+                    "Name": "AQUA HEAVEN - Waterpark Pool",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 40,
+                    "Description": "遊べるプールワールドを制作しました。 ウォータースライダー！流れるプール！ みんなで遊んだりのんびりしたり～！ I created a pool world where you can play․ Water slidesǃ A flowing poolǃ Everyone can play and relax~ǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_f7a383bc-c925-4696-85c2-2996c0a40112/info",
+                    "Name": "Deep Blue",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "ake a dip in the warm tropical shoreline‚ or swim further and explore the vast coral reefs with many species of marine life․ updated 512021",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_b2f921c2-8aa8-44a4-aae6-44d34b780e7f/info",
+                    "Name": "夏、和室",
+                    "RecommendedCapacity": 7,
+                    "Capacity": 14,
+                    "Description": "ごろごろするだけの部屋",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb/info",
+                    "Name": "青天霹靂（夕）",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "以前アップロードしたワールド「青天霹靂」の夕方バージョンです！BGM˸resonance of time／written by˸のる 様",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_88e3c772-894f-418d-b9e5-96059af3d631/info",
+                    "Name": "Yayoi Summer Nights",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "ちりんちりん～ ｜ BGM ˸ 黒塗りの夜景 by ISAo",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_ce3d5b50-b247-4442-9078-758ca0127bce/info",
+                    "Name": "Thad Recursive Room",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "A room in a room in a room․ And it comes with toysǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_6bfb2407-1f1d-411b-bb6b-ccd13288774a/info",
+                    "Name": "NUCLEUS",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "Explore a huge brutalist waterpark",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_12fae8ad-da03-4c62-bdbc-1173713bd007/info",
+                    "Name": "秘密基地みたいなたまり場 ~Secret base House~",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "作業とかまったりしたい時にお使いください。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_49f816fc-0af3-4c48-b84a-4e0254a3aa42/info",
+                    "Name": "この部屋では何も起こらない - Ordinary Room",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 10,
+                    "Description": "親戚の家の仏間をイメージしたホームワールドです。もしも何かが起こりましたら、ご報告ください。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_3561853a-f983-423b-830c-41eecf3dbc4e/info",
+                    "Name": "ぷらね邸 - PLANETEI",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "快適なリビングルームで、美しい星空とプラネタリウム投影機の機械美を心行くまでお楽しみください。 Relax in a cozy living room‚ where you can enjoy the beauty of the starry sky along with the intricate design of a planetarium projector․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_13f15851-5366-4365-aca9-6f134b263cff/info",
+                    "Name": "Yayoi summer rust",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Y",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_b6d79769-91bb-4416-abbc-797e1598dcec/info",
+                    "Name": "うたた寝の庭先 - Early summer gardens -",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "お昼寝から覚めたら、涼しい木陰の庭先に降りて伸びをひとつ・・・アトリエの白壁やツタの格子、ガラス天井や水面を透して差し込む光をぬけて、居心地のいい庭をみつけにゆきましょう．Comfortable small gardens with various expressions․ This world includes bedrooms‚ glasshouses‚ an atelier‚ and an aquarium․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_ebc40dab-e142-41bc-bd64-1c82834b92b0/info",
+                    "Name": "Ephemeris",
+                    "RecommendedCapacity": 80,
+                    "Capacity": 80,
+                    "Description": "An ephemeris is a table of calculated positions and velocities of an orbiting body at specific times․ The word comes from the Greek word ephēmeris‚ which means ＂diary＂ or ＂journal＂․ Updated with Red Sim's Light Volume support․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_71eca28e-ee80-400c-9b53-dddc55c93124/info",
+                    "Name": "Hearthwood",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 40,
+                    "Description": "A warm winter cabin at night in the snow with YouTube search‚ ‚ video player‚ mirrors and pens",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb/info",
+                    "Name": "THE Swimming Pool",
+                    "RecommendedCapacity": 24,
+                    "Capacity": 32,
+                    "Description": "If you are tired of looking at flat static water‚ THE Swimming Pool brings you interactive 3d water to swim‚ make splash and wave․ Also included changing room‚ public shower‚ video player‚ pen‚ Billiards‚ and Beer Pong․ Inspired by existing world․ 2⁄1 Update˸ Terrain should now properly rendered in camera and camera gimmicks․ Changed the trigger position for underwater blur effect; 3cm lower for pool and 0․5cm higher for bath tub in world space․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab/info",
+                    "Name": "雪夢島 -Snow Reverie Island-",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "ゆきやこんこ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_1d638943-9cea-44f3-b975-6c2b6f73bbbd/info",
+                    "Name": "Nocturnadia",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 32,
+                    "Description": "- ノクターナディア - Island of Music and Nature",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_797cb0ba-425b-46f1-ba03-c471881dfb0f/info",
+                    "Name": "Caketail Home Party！",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 30,
+                    "Description": "仲のいいフレンドと、カクテルを作ってのんびり過ごしていただけたら幸いです。未成年の方向けに、ノンアルコールカクテルもご用意しております。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_cb7520cd-c6b5-43af-8cbf-b8dd281d3e85/info",
+                    "Name": "黯栖 lonely rest",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "deserted and cold",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68/info",
+                    "Name": "おいてけぼりの夏-Summer left behind-",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 40,
+                    "Description": "夏色が抜かれてしまった後の世界。船を操縦することもできます。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_89112876-1c0d-429b-8901-6003ceac8404/info",
+                    "Name": "群青コントレイル ~Blue Contrail ''Gunjo''~",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "日本のどこかにある高台の洋館で、移りゆく雨模様と遠くの街の灯りを眺めながら、心ほどけるひとときをお過ごしください。 ｜ Hillside Manor - A Japanese Rainy Evening Retreat ｜ Hashtag ˸ ＃Gunjo3D",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_cc9aa6d6-263f-431d-a609-05b69f507ba9/info",
+                    "Name": "くとぅるーむ -CTHRoom- Enjoy TRPG",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "［増設中］5～６人想定のTRPG用トークルーム＆バールームです。1～12D 4‚6‚10‚100のダイスを用意してます。低遅延配信のTopazChat導入してます。多機能イメージパッド導入。その他睡眠エリアなどなど。 ［注意］シナリオ、ルールブックなどはセルフで用意想定です。一人でも経験者がいると進めやすいかも。今後可能な限り機能を追加していきます。 ［Under Expansion］ This is a talk room and bar room designed for TRPG sessions with 5 to 6 people․ Weve prepared dice from 1 to 12-sided‚ including D4‚ D6‚ D10‚ and D100․ Low-latency streaming is enabled via TopazChat․ A multifunctional image pad is also available․ Other features include a sleep area and more․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_84f03063-6013-43f6-a827-995a512a617e/info",
+                    "Name": "春空の休息地 -BloomingSky Rest-",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 60,
+                    "Description": "はるだーǃ さくらだーǃ ねこだーǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca/info",
+                    "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "QvPenとIwasyncは器具庫にあるぞ！！Iwasyncはワールド全体に聞こえる！ 07⁄30アップデート！ ビーチボールやビート板が水に浮くように！サムネ撮影˸鈴木ひじき",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                }
+            ]
+        },
+        {
+            "Category": "gallery・exhibition",
+            "Worlds": [
+                {
+                    "ID": "wrld_5187ce2f-9863-44f8-b396-70fb981b84f0/info",
+                    "Name": "体験作品「チュートリアリティ」",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 16,
+                    "Description": "「ようこそ、チュートリアリティへ。メタバース初心者のあなたを歓迎します。」 あなたは自分にとって最適なメタバースを探すため、異なる世界線・異なる設計思想の3つのメタバース、「VRChat」「ツインバース」「Idealter」それぞれのチュートリアルを体験する。 「メタバースの常識」を探そう。 ⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄⁄ VRモード限定（デスクトップモードでは動作しません）・基本ローカルなので全員で行動してください・全員そろってからの開始を強くおすすめします。IVRC2024メタバース部門 優秀賞（メタ・メタバース部門）⁄0b4k3賞",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_a649f318-9aab-471a-9543-ac1064d220f1/info",
+                    "Name": "Just 蜃気楼の原理 -Just Shinkirou no Genri-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "蜃気楼を体験しよう！",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_f158272c-7134-484b-8c21-aa09f0f2da7d/info",
+                    "Name": "Record ˸ Beyond the Lens",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "March exhibition-感想や好きな写真については「＃Record_BtL」を付けてXやBlueskyなどでポストして頂けると嬉しいです。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_4176b649-a55c-4089-a89c-4c361cbfdeed/info",
+                    "Name": "Tribology World",
+                    "RecommendedCapacity": 25,
+                    "Capacity": 50,
+                    "Description": "トライボロジー（摩擦・摩耗・潤滑に関する学問分野）について、実際にモノを動かして体験したり、学べるワールドです。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_9d3dad3f-f33a-41c7-a51f-69e3aa0f2aa8/info",
+                    "Name": "Scale Journey",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 16,
+                    "Description": "素粒子から宇宙まで、スケールを旅するワールドです。 Created by S_Asagiri",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_9ac9ed36-adb0-491a-8757-d250f21c9bcf/info",
+                    "Name": "Eccentric Objects",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc/info",
+                    "Name": "Exhibition˸ 1٪ of Virtuality",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 60,
+                    "Description": "1％ of Virtuality （＂1％の仮想＂） is a virtual private exhibition world with the theme of Virtual Reality․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_9f982dd8-144f-44a7-9752-8416dcbe572b/info",
+                    "Name": "Like a canvas",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "fake ?",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_f97a1f4c-daf1-4b12-88d4-25c14516b7a7/info",
+                    "Name": "ヴァリアライド-Varea'Ride-",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "悪のVR怪人組織『悪役結社ヴァリアール』。その世界に全身で没入できる珠玉の大迫力ライドアトラクションワールド。 ヴァリアールに関する事前知識不要。 装甲ビークルに搭乗し、いざ万魔殿の奥底へ！ 《乗員》1～6名（最大8名） Twitter ＠VRHeel",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_ce96014b-bb0a-4060-9d09-1672824570ea/info",
+                    "Name": "NearSighted Classroom",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "You can experience myopia‚ presbyopia‚ and astigmatism eye in VR․ In addition‚ color vision deficiency․ Twitter˸＠VoxelKei",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668/info",
+                    "Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
+                    "RecommendedCapacity": 25,
+                    "Capacity": 50,
+                    "Description": "【COSMORIA˸ VR Museum of Space】English and Korean are now availableǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_e2288ae2-0028-44c6-8ed8-ec6bc8ade3e4/info",
+                    "Name": "Monet Gallery モネ展",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Welcome to ＂Monet Gallery＂․ This is a fan world showcasing 68 works by the painter Claude Monet․ _____『Monet Gallery モネ展』へようこそ。画家クロード・モネの作品68点が展示されたファンワールドです。すべての作品に解説が添えられており、モネの世界をじっくりと体感していただけます。_____Each artwork is accompanied by a detailed caption‚ allowing you to fully immerse yourself in Monets world․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0/info",
+                    "Name": "SoundLab",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "音響システムWavePathSystemとその他技術検証ワールドです。音の位置や反響をよりリアルに再現し、聞く位置や環境によって音が変化します。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_d3d7e0db-030a-4fa3-8a2c-ecaa617e083a/info",
+                    "Name": "WorldGimmickSamples",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 32,
+                    "Description": "「VRChat ワールドギミック 100サンプル集」のお試しワールドです。 https˸⁄⁄tommyudonfactory․booth․pm⁄items⁄5461131 ワールドギミック100種類のサンプルと、解説書を配布しています。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_d3bd693d-1b07-4bff-b492-87011ff83b8a/info",
+                    "Name": "Graviton",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Graviton",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_486f153f-ba7a-4618-8d1e-1395c682576b/info",
+                    "Name": "GravityWell",
+                    "RecommendedCapacity": 25,
+                    "Capacity": 50,
+                    "Description": "探査機を重力井戸に投げ込んで遊べるワールドです。地球-月系、木星系、星の質量比を自由に変えられる系の３つがあります。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_663166d0-5e80-4643-9746-93b9558b89d1/info",
+                    "Name": "Animation Live ＂Escape＂",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 60,
+                    "Description": "Models and Animation are Created by S_ASAGIRI․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_c9370c40-45e2-4622-9a2d-9e210622d1c9/info",
+                    "Name": "This Ship has 4 Years of Oxygen Remaining",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 80,
+                    "Description": "After a tragedy takes place on this cargo ship‚ the last remaining astronaut only has 5 years of oxygen remaining as his ship drift aimlessly through space․ However‚ with every player that joins they take a percentage of his oxygen․ The more players‚ the more oxygen that is taken up․ With the passage of time the astronaut has to sacrifice parts of his ship to survive․ Will you take his oxygen? or spare him of this terrible fate? Either way․․․ We all Go One Day․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                }
+            ]
+        },
+        {
+            "Category": "game・transport",
+            "Worlds": [
+                {
+                    "ID": "wrld_647cc858-abc3-4435-a31c-475190607788/info",
+                    "Name": "R․B․T_V2［ハイスピード異能バトル］［PC‚Android］",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 16,
+                    "Description": "現在アップデートデータをアップロード途中なので、予期せぬバグが起こるかもしれません。 RPイベントRodofAsclepiusによる、SF系PvPワールドです。 60種類に及ぶ異能を組み合わせ、勝利を手にしましょう！ １度の対戦には2~6人が参加可能で、並行して5組まで募集できます。 大型アップデート（V3）を実施しました！（2025年4月1日）",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_16a6759f-3e63-46e1-97d0-90b46cc69464/info",
+                    "Name": "Archery Time Trial",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Archery Time Trial",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_aa4e7dc7-6e9e-47b2-bf93-e3be9520075a/info",
+                    "Name": "VRC-TV mast",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 60,
+                    "Description": "ほぼ原寸大の628m近くあります。のぼると上腕二頭筋が鍛えられます。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_4b3b0a74-b96c-4d65-ae6d-547419b6ec9d/info",
+                    "Name": "UmigameSoup-ウミガメのスープ",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "水平思考ゲーム「ウミガメのスープ」をプレイできるワールドです。ユーザーオリジナルの問題も出題できます。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_c5427f32-2460-434e-8b3b-823283afa019/info",
+                    "Name": "PowderGame",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "PowderGame",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd/info",
+                    "Name": "Tanksǃ",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "Time for battleǃ （2-10 players）",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_038969d5-1a77-43d9-a435-ad1e9bf12542/info",
+                    "Name": "おえかき探偵 -Drawing Detective-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "お題を選んで絵を描いて、何を描いているか当てようǃ プレイヤー人数 ˸ 2~16",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_3b0014d7-b82f-4249-bfc4-64f65815c4f3/info",
+                    "Name": "Colorful Dash -カラフルダッシュ",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "色を集めるアクションゲーム。 全5ステージ＋おまけ。 Use dash to clear the stage․There are 5 stages and Extra stage․ Made with Udon․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_c4fa7db7-ca0e-4f62-8742-bea8d49cb170/info",
+                    "Name": "Play Game Now",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ゲームアセットを詰め込んだワールドです。 Questにも対応させましたがすべてのアセットが対応しているわけではありませんのでご了承ください。入り口付近のスイッチにてアセットを非表示にできます［Room S5］・ボーリング・シュガーテスター・記憶ゲーム・ブロック崩し・魚釣りゲーム・ウォーターゲーム・ダーツ・ビリヤード・コリドール・クワトロ・ヨットダイス・Udonマスターズ・海戦ゲーム・将棋・麻雀・チェス・リバーシ・トランプ・バックショットルーレット・エアホッケー・バスケットゲーム【2024⁄05⁄09】バスケットゲームの調整・ビリヤードの修正・ウォーターゲーム更新・床コライダー変更・オクルージョンカリングの修正・ボーリング玉リセットスイッチ追加",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_0c893838-48d6-4174-8c98-5bd84b73ae4f/info",
+                    "Name": "タイタンクラッシュ -TITAN CRASH- Ver․2․1",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "タイタンクラッシュは2人以上で遊べるパーティバランスゲームです！巨人の足下にブロックを沈めて、巨人を倒したら負け！どのブロックを沈めるか考えながら生き残りを目指そう！ ⁄⁄ Ver․2․0 ポーズコピー機能追加 ⁄⁄ Titan Crush is a party balance game for two or more playersǃ Sink blocks under the giant's feet‚ and you lose if you knock the giant downǃ Think about which blocks to sink and try to surviveǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_dc686db7-a9c0-46c5-ab23-fc5b82ed56fc/info",
+                    "Name": "VRC Disc Golf",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Real-world frisbee physics‚ play zone with trick shots‚ and disc golf challenge course in a neon-infused experience․ Play by yourself or have a catch with friendsǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_ed804166-c0ba-44a8-999d-6190a6b30358/info",
+                    "Name": "空島の旅2-冬島-（Sky Island Journey 2 -Winter Island-）",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "空島の旅2-冬島-（Sky Island Journey 2 -Winter Island-）空島を渡っていくパルクールワールド。帰り道用のグライダーレースもあります。プレイ時間30分程度。 This is a parkour world across an sky island․There is also a glider race for the way back․About 30 minutes of play time․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_efe21499-58ed-482b-bfbd-be6ce0330ec7/info",
+                    "Name": "ホップクライムC！",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "みんなで飛んで跳ねてわいわいPVP！ コインを10枚先に集めよう！Fly‚ jump‚ and have fun together in this lively PvP gameǃ Be the first to collect 10 coinsǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "",
+                    "Name": "",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                }
+            ]
+        },
+        {
+            "Category": "boardgame",
+            "Worlds": [
+                {
+                    "ID": "wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d/info",
+                    "Name": "ボドゲポータル",
+                    "RecommendedCapacity": 80,
+                    "Capacity": 80,
+                    "Description": "ボードゲームの待ち合わせ用のワールドだよ！ ボドゲ系ワールドへのポータルと紹介がある！ 毎週木曜日21˸00からのイベント「ボードゲームを遊ぼう！」の集合場所にもなってる！",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b/info",
+                    "Name": "ガンナガン ⁄ GUN AND GUN",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 40,
+                    "Description": "アナログゲーム製作サークル「Keepdry」様制作の、高速二丁銃バトルカードゲーム「ガンナガン」をVRで遊べるワールドです。 プレイ人数˸2人 プレイ時間˸10〜30分 対象年齢˸12歳以上",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96/info",
+                    "Name": "CODENAMES 2023［JP］",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "日本語版コードネームで遊べるワールドです。Ver1․1․0 新しいワードリスト「VRChat」を追加",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_3990ea7f-a852-4f6b-9c80-973f915ed1e8/info",
+                    "Name": "ボードゲームルーム Board Game Room",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 40,
+                    "Description": "自作ボードゲームと伝統ボードゲームを詰め合わせたワールド 遊べるゲーム・キーボー雀 QWERTY ・Liars Dice ・シャットザコンフリクト ・スラカルタ ・Amata（テスト中）",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_66c742e9-ff23-460b-b71f-84549fe4b6f5/info",
+                    "Name": "『かわうち』ボードゲームワールド",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 80,
+                    "Description": "（JP⁄EN）『かわいい子たちとおうちを建てるゲーム』島のかわいい子たちと共に誰よりも早くお家を建てよう！ プレイ人数˸2～4 プレイ時間˸30分以上 ｜ ＃かわうち created by TDMボドゲ同好会 ｜ Kawauchi （Kawaii ko tachi to ouchi wo tateru game‚ ＂Cuties Build Your House＂） Let your cuties take action to complete your houseǃ ｜ The boardgame for 2～4 players․ About 30 min․ or longer to play․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_005121c7-61e8-433b-ba56-7181aa87b528/info",
+                    "Name": "勇者ムルルはサボりたい ボードゲーム",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "協力 × 駆け引き サボタージュRPGカードゲーム！ あなたたちは群れで戦う勇者ムルルです。 協力してモンスターを倒すのがいつものスタイルですが、 戦いの中、みんな心のこう思っていました。 「自分だけどうにかサボりたい」 仲間を出し抜いて、自分は快適に。目指せ理想のハイエナライフ！ 3～6人用 プレイ時間は10分程度 元ネタのボードゲーム名：ハイエナ勇者はサボりたい",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_65d62c8d-64c8-4de6-8f88-2b0f4593a797/info",
+                    "Name": "たった今考えたプロポーズの言葉を君に捧ぐよ バトルロワイアル",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 30,
+                    "Description": "原作「たった今考えたプロポーズの言葉を君に捧ぐよ」のオマージュになります。 結婚を賭けた、生き残りデスゲーム！！ ロールプレイでお楽しみください",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_cb5bffcf-5c86-4c05-a7b4-8207f327c10b/info",
+                    "Name": "Moon Animal War",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "2-4人 ∗3Room 本格的な戦略ボードゲームが登場！ 4つの個性的な陣営の力を駆使し、月の裏側を手中に収めよ！ 4カ国語対応（日・英・中・韓） QUEST⁄PCVR⁄DESKTOP オリジナルボードゲーム第三弾 2-4 players ∗3Room A full-fledged strategy board game is now availableǃ Use the power of four unique camps to take control of the far side of the moonǃ Available in 4 languages（English⁄Japanese⁄Chinese⁄Korean） QUEST⁄PCVR⁄DESKTOP The third original board gameǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_e948245c-5334-4ce1-b0df-a7d481ea4327/info",
+                    "Name": "Machi Koro VR",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "2-4 Player ｜ 40-60 min ｜ PartyGame ｜ Standard ‚Plus Rule リンゴ園のコイン１は誤植です。正しくはコイン３",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_116f8eee-ccea-4d7e-862c-509381602434/info",
+                    "Name": "VRギブトレ - GiveMeTreasure",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "VRギブトレ - GiveMeTreasure Board game World․ Play time 15 to 30 minutes․ 2 to 4 players․ Powered by CatsUdon․ VR Production Virtual Party Inc․ Original by SUSABI GAMES",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40/info",
+                    "Name": "［Game］ Join Wars ［JP․EN․KR․CN］",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "【JP】1-4人用カードゲーム。VRChatの「Join戦争」がテーマの競技性が高い「デッキ構築再破壊」ゲーム。【EN】1-4 players card game․ ＂Deck-building ＆ re-destructing＂ competitive card game about ＂Joining VRChat events＂․【KR】1~4인용 카드 게임․ VRChat의 「Join 전쟁」이 테마인 경쟁성이 높은 「덱 빌딩 재구성」 게임입니다․【CN】1-4人用卡牌游戏。以VRChat的「参加活动」为主题的高竞争性「牌组构筑与再破坏」游戏。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_c55e3115-ba69-4000-83ff-8e1819543f5e/info",
+                    "Name": "こんちゃんコヨーテ！~Kon-chan Coyoteǃ~",
+                    "RecommendedCapacity": 64,
+                    "Capacity": 64,
+                    "Description": "プレイ人数：2人～。 プレイ時間：２０分くらい。 ボードゲーム「コヨーテ」が遊べるワールドです！山札をカスタマイズできるコアなファン向けのモードもあります！ みどりの森°アバター「ロポリこん」の非公式ファンワールドです。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_d708504a-3a34-4b33-8816-464a5bb1b04e/info",
+                    "Name": "Sokomade Kaihen",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ボディビル風にアバター改変を褒めるパーティゲームです。（2-6人）Quest対応しました․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_24067863-708c-479f-b25d-f696a37d2a4b/info",
+                    "Name": "Blokks",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "Inspired by Mattel's Blokus‚ Video Player also available",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_79b5e3d7-0c68-4856-88a6-36438816aae7/info",
+                    "Name": "ProposeForYou_CardGame",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "ランダムな単語を組み合わせプロポーズの言葉を作成する、ボドゲワールドです。3-6人向け",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_642dd26e-224d-46db-ac38-d8840a8d49fa/info",
+                    "Name": "偉人カードバトル",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "Quest対応しました！「ソクラテスラ」ライクなゲームができるワールドです。プレイ人数2-6人。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_44dbc368-941e-40e6-b6e0-eaf2aeaec16e/info",
+                    "Name": "VRC_HIGHWAY",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "ボードゲームです 2～4人 30分 ルール追加予定",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_2ba1a0c1-5d7a-4271-bc13-401157b35dcd/info",
+                    "Name": "ブラッドリコール ⁄ BLOOD RECALL",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 20,
+                    "Description": "アナログゲーム製作サークル「シエラゲームズ」様制作の、想起血戦カードゲーム「ブラッドリコール」をVRで遊べるワールドです。 プレイ人数˸1~2人 プレイ時間˸10〜30分 対象年齢˸15歳以上 人数˸ 20人",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_47c60092-5db3-4a61-9c30-f5777ce76baf/info",
+                    "Name": "Udon Catan ［JP］",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "カタンが遊べるUdonワールドです。カタンのルールは各自で調べてください。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                }
+            ]
+        },
+        {
+            "Category": "謎解き・脱出・puzzle",
+            "Worlds": [
+                {
+                    "ID": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a/info",
+                    "Name": "謎解きポータルハブ「なぞいろは」-Nazotoki portal hub NazoIroha",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 60,
+                    "Description": "謎解きワールドのポータルハブです。謎ワを探したり，待ち合わせに使ったりしてください！不具合・削除依頼はご連絡いただけたら嬉しいです！This is a riddle world portal hub․ The worlds related to Nazotoki‚ a Japanese-style riddle‚ are mainly introduced․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "world/wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6/info",
+                    "Name": "8Questions",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 8,
+                    "Description": "［JP⁄EN］ Solve the 8 questions․ All gimmicks are local․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_b8f09a42-c6db-44c6-9649-d858b75d1fd5/info",
+                    "Name": "探偵・謎川事件譚-仮想現実殺人事件-⁄satsujinjiken",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "ソロでも複数人でもできる謎解きワールドです。謎を解き、手がかりを集め、このワールドで発生した殺人事件の犯人を当てよ！",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_20bfc007-852a-42df-acd3-0d4caeae368f/info",
+                    "Name": "謎解き 絶対にボタンを押させたくないネコチャン",
+                    "RecommendedCapacity": 64,
+                    "Capacity": 64,
+                    "Description": "想定攻略時間60分、全てローカル動作。途中Join可能。Quest⁄Desktop可。答えを含め撮影・共有ご自由にどうぞ。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_15c61667-c86e-491e-93a1-6e310e5638f2/info",
+                    "Name": "KEYWORDS【 JP ⁄ EN 】",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "This is a game world where you can play puzzle-solving challenges․ ／ 謎解きワールドです。謎を解き明かしてください。 【 Difficulty level ˸ difficult 】【Required knowledge：normal】【 Estimated clear time ˸ 60 ~ 180 min 】【Gimmick：Global】【 ＃VRC_KEYWORDS 】",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_e4dcb205-8f8c-4a08-b899-87b0b2000ae2/info",
+                    "Name": "時猛迫落からの脱出 -Escape From Any Traps-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "正式名称：時限爆弾・猛毒ガス・迫る天井・落ちる床（この4つを同時に発音する）からの脱出",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_9f00b76f-7b50-493b-b669-2636f3cf301c/info",
+                    "Name": "ふろーずん・わーど！-凍るタイムラインの謎-⁄FrozenWord",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "【日本語話者向け謎解きワールド】プレイ人数：1人～ 想定クリア時間：60~90分 有名SNS「ブイッター」を運営するフワードと共にタイムラインの平和を取り戻そう！",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_75aedc87-3557-45fe-b29d-740e6957ade5/info",
+                    "Name": "謎解きワールド Rooms",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "数々の謎を解き明かし、部屋だらけの奇妙な空間から脱出せよ。 ⁄途中参加可能 ⁄想定クリアタイム˸ 3時間 ⁄VR・Desktop対応⁄【不具合報告は＠uzaaakiまで】",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_f9b3673a-f60d-4818-826a-a2387567ac3d/info",
+                    "Name": "謎解きワールド「Constellation Express ~星宿特急~」",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "列車内の謎を解く、ギミック系謎解きワールド⁄PCオンリー⁄3時間想定⁄推奨人数2～4人⁄Desktop可⁄手つかずの車両からなら一応途中参加可⁄初めて作成したワールドなので、お手柔らかにお願いします ：このワールドにはVRC貴族部サロンの非公式コンテンツを含みます：ノースネイア上空の列車旅をお楽しみください",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_b6ce5d33-3b59-468e-af24-d18e17496552/info",
+                    "Name": "謎解きワールド「温室博物館」",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 8,
+                    "Description": "温室内の謎を解く、ギミック系謎解きワールド⁄PCオンリー⁄1~2時間想定⁄推奨人数1～5人⁄Desktop可⁄一応途中参加可能ですが、同期ずれします。特に卵",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_c182398b-2539-4349-ab03-1fa720509df0/info",
+                    "Name": "脱出ゲーム Platform",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 8,
+                    "Description": "『偶然』に導かれたあなたは、罠の仕組まれたデスゲームから脱出できるのか？⁄ 制限時間40分 ⁄ グローバル動作 ⁄ 途中参加不可",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_795ddf7d-c059-442b-8108-6294b6dfdc2a/info",
+                    "Name": "アスタリスクの花言葉",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "「アスタリスクの花言葉」は9つの部屋から構成される謎解きワールドです。 Basic Japanese skill is required to play this world․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_04aec1b1-454f-41a0-bf35-13ae967cdaf4/info",
+                    "Name": "謎解き：0-1000tic",
+                    "RecommendedCapacity": 6,
+                    "Capacity": 12,
+                    "Description": "ワールド名は「オーセンティック」と読みます。日本人向け謎解きワールド。バーの店員として一日の業務を終えればクリア。すべての謎にヒントがついています。一部の謎は検索推奨です。想定クリア時間：2時間～4時間",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed/info",
+                    "Name": "PROJECT˸ SUMMER FLARE",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "Break the Summer․ Break the tower․ Complete the Meridian Loop․ A story about reality and humanity․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_b244b119-2497-4bdb-b239-cd47884e3c5a/info",
+                    "Name": "脱出ゲーム「殺人レストランからの脱出」",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "爆弾の仕掛けられた部屋から脱出せよ！⁄制限時間60分⁄途中入場不可",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_82bcab7f-8ae2-4f9d-a74d-d71f4ec02f08/info",
+                    "Name": "PRESENT DAY",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 30,
+                    "Description": "日本語話者向けの高難度謎解きワールドです。＃VRC_PRESENTDAY",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_4999db80-c145-47e5-9870-a6065de3260d/info",
+                    "Name": "Simple Riddle ひらがなぞ",
+                    "RecommendedCapacity": 64,
+                    "Capacity": 64,
+                    "Description": "シンプルな謎解きワールドです。想定攻略時間20分。全てのギミックはローカル動作。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_d335c270-5571-464a-95a7-7662a65cc503/info",
+                    "Name": "Triangular",
+                    "RecommendedCapacity": 5,
+                    "Capacity": 10,
+                    "Description": "［Any Languages OK］Solve puzzles and riddles․ ／about 30 min to complete 3 levels․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_e7e04340-6437-45d2-ac78-f7c5d8178696/info",
+                    "Name": "貴女へ至る還り路 ~The Way to Athena~",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "答えたものが実体化する異世界で、全ての謎を解き、この世界の支配者の元へと辿り着いてください。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_d0f0db54-5270-4b9e-8efb-5de805783ce9/info",
+                    "Name": "プラネタリドル -PLANETARIDDLE",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "12人の謎解き製作者の共同制作による謎解きワールドです。 セーブ機能付き ⁄⁄ VR・Desktop両対応 ＃VRC_プラネタリドル",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_6b4d68a0-8010-4261-b1bd-61be8dec66b0/info",
+                    "Name": "協力なぞとき『ココロ＝ト＝ココロ』",
+                    "RecommendedCapacity": 6,
+                    "Capacity": 10,
+                    "Description": "意思疎通が鍵をにぎる！ 2～4人向けの無言協力脱出ゲームです。 想定プレイ時間：30～50分。＃VRCココロトココロ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_7a092275-aa12-46ef-9a53-c1d21968eda6/info",
+                    "Name": "謎解き「灯台島からの脱出」",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 32,
+                    "Description": "灯台に隠された謎を解き明かして、この島から脱出せよ！⁄途中参加不可⁄想定プレイ時間30~90分",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_e437341b-cd7f-4d5c-ae30-bf19dea769e3/info",
+                    "Name": "Open The Door",
+                    "RecommendedCapacity": 64,
+                    "Capacity": 64,
+                    "Description": "＃otd_vrc CyanTriggerで作成した小粒の謎解きワールドです。想定クリア時間1時間前後。ヒント機能有り。Quest対応。11⁄8更新˸英語の説明文・ヒント追加。2023⁄8⁄18更新˸デバッグルーム追加・不人気の部屋のスキップ機能強化。 This is a puzzle solving world created by CyanTrigger․ Estimated completion time is around 1 hour․ Hint function is available․ Quest support․ 11⁄8 Updated˸English description and hints added․Update 2023⁄8⁄18˸ Added debug rooms and enhanced the ability to skip unpopular rooms․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_3a918e80-4045-455d-a230-5725e1d42044/info",
+                    "Name": "April Waters",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 40,
+                    "Description": "descend on me‚ pristine waters of April․ enfold me‚ close my eyes․ rise me above this soil․ to whirl and fade with playful dust in the sky light․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_77b927d7-592c-43f1-9f69-10bcdc061949/info",
+                    "Name": "脱出ゲーム「JUST NO ESCAPE」",
+                    "RecommendedCapacity": 4,
+                    "Capacity": 8,
+                    "Description": "この部屋から脱出せよ、骨も残らなくなる前に。⁄途中参加不可⁄制限時間50分",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_09184947-d075-4f20-8c87-cc7359513b7d/info",
+                    "Name": "Cyan TimeSpace Lab ［JP․EN］",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "グラビティプルと時間操作で物理パズルを解こう Solve physics puzzles by gravity and time manipulation",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                }
+            ]
+        },
+        {
+            "Category": "live・music",
+            "Worlds": [
+                {
+                    "ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b/info",
+                    "Name": "よるとうげ -Yorutouge-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "-星くんが誘うKikuo音楽体験世界- （Hoshikun invites you into the world of Kikuo music experiences） -この夜をこえよう。 高揚し、入り込み、溶かし、振り返り、ぐちゃぐちゃになりながら、 何度でもこの夜をこえよう。-Beyond the night․ Uplifting‚ immersing‚ melting‚ looking back‚ messing up․ Beyond the night again and again․ ＃よるとうげ ＃yorutouge",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+                
+             ]
+        },
+        {
+            "Category": "portal",
+            "Worlds": [
+                {
+                    "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832/info",
+                    "Name": "［JP］ USiOPORT ウシヲポート",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "日本語対応Portal Worldです。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2/info",
+                    "Name": "［JP］クエストトビラ QUEST TOBIRA",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "クロスプラットフォーム・日本語対応ポータルワールドです。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_b4ea9be8-1f50-47c8-b0b7-fd09f6d2aea3/info",
+                    "Name": "虚々実々",
+                    "RecommendedCapacity": 80,
+                    "Capacity": 80,
+                    "Description": "半数は実在、半数は虚構のワールドのポータル集です。説明書きを読んで虚構と実在を見極めてください。虚構のワールドが実在したとき、虚構のワールドを実在させたときはご一報ください。ネタバレ、撮影、動画撮影OK。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_de9ce32c-26a9-42ad-b66f-f2eee24887fe/info",
+                    "Name": "パーティクルライブ全部見るPort",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 32,
+                    "Description": "音と光、約280のポータル集です。VRCのパーティクルライブ、VRMV、Particle Animation、パリピ砲、VR lightshowを全部見るグループ（SSMV․4624）へのお礼に。（2018․12~2025․04。Private除く）",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_4165c26e-b033-4eea-a469-e5247048e39a/info",
+                    "Name": "VRAA02 Portal World",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "Virtual Reality Architecture Award 2020 Collection Works - VRAA02 ＂Live Frontier＂ Portal World",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        }
+        
+    ]
+}
