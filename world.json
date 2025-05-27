@@ -1,12 +1,12 @@
 {
     "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
+    "ShowPrivateWorld": true,
     "Categorys": [
         {
             "Category": "favorite",
             "Worlds": [
                 {
-                    "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7/info",
+                    "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
                     "Name": "Astral Bounds",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
@@ -18,7 +18,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_a6b250e5-4aa0-4607-8260-4ef51b125ed0/info",
+                    "ID": "wrld_a6b250e5-4aa0-4607-8260-4ef51b125ed0",
                     "Name": "Maybe‚ Unobservable",
                     "RecommendedCapacity": 15,
                     "Capacity": 30,
@@ -30,7 +30,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_320bff3b-6164-4265-9ff2-d3b1adb1dafb/info",
+                    "ID": "wrld_320bff3b-6164-4265-9ff2-d3b1adb1dafb",
                     "Name": "Stay gold",
                     "RecommendedCapacity": 10,
                     "Capacity": 24,
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_61c40c8f-68c9-4e78-8242-b48a9c0f4054/info",
+                    "ID": "wrld_61c40c8f-68c9-4e78-8242-b48a9c0f4054",
                     "Name": "Abyssal",
                     "RecommendedCapacity": 20,
                     "Capacity": 20,
@@ -54,7 +54,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_c1852f7c-0656-4825-8e16-4bb86491b4b0/info",
+                    "ID": "wrld_c1852f7c-0656-4825-8e16-4bb86491b4b0",
                     "Name": "fallen blue",
                     "RecommendedCapacity": 12,
                     "Capacity": 12,
@@ -66,7 +66,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_0804dea8-cc2a-4050-b730-c6be4d6d5a88/info",
+                    "ID": "wrld_0804dea8-cc2a-4050-b730-c6be4d6d5a88",
                     "Name": "Crystal Clear Pool",
                     "RecommendedCapacity": 6,
                     "Capacity": 12,
@@ -78,7 +78,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_0070e9c7-e484-41fb-be92-a09355ece9cf/info",
+                    "ID": "wrld_0070e9c7-e484-41fb-be92-a09355ece9cf",
                     "Name": "溺死の夢 - Dream of Drowning",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -90,7 +90,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9/info",
+                    "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
                     "Name": "Gallery 2718702a",
                     "RecommendedCapacity": 40,
                     "Capacity": 40,
@@ -102,7 +102,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0/info",
+                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
                     "Name": "SoundLab",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -114,7 +114,7 @@
                     }              
                 },                
                 {
-                    "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8/info",
+                    "ID": "wrld_54f4616c-1768-4535-ae12-2de8667305b8",
                     "Name": "Hidden Bar【SnackC】",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
@@ -131,7 +131,7 @@
             "Category": "改変",
             "Worlds": [
                 {
-                    "ID": "wrld_caf693fd-69c4-4304-b145-71463a6cecb6/info",
+                    "ID": "wrld_caf693fd-69c4-4304-b145-71463a6cecb6",
                     "Name": "アバター改変作業をするためだけのワールド",
                     "RecommendedCapacity": 10,
                     "Capacity": 20,
@@ -143,7 +143,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_92f472fd-eb62-43a0-98ee-caf56d4935d6/info",
+                    "ID": "wrld_92f472fd-eb62-43a0-98ee-caf56d4935d6",
                     "Name": "Momoma Avatar Testing",
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
@@ -155,7 +155,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_88524b47-aedc-4bf1-900b-b0d1c5d670ea/info",
+                    "ID": "wrld_88524b47-aedc-4bf1-900b-b0d1c5d670ea",
                     "Name": "QAi Check World",
                     "RecommendedCapacity": 16,
                     "Capacity": 16,
@@ -167,7 +167,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_7fc407cc-439d-4a42-a2a1-9b22177d608e/info",
+                    "ID": "wrld_7fc407cc-439d-4a42-a2a1-9b22177d608e",
                     "Name": "RenderQueue Debug World",
                     "RecommendedCapacity": 32,
                     "Capacity": 32,
@@ -179,7 +179,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_d59a49dc-9e7e-43eb-91b3-471980bc81d8/info",
+                    "ID": "wrld_d59a49dc-9e7e-43eb-91b3-471980bc81d8",
                     "Name": "HaneBall",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -196,7 +196,7 @@
             "Category": "chill・relaxing・explore",
             "Worlds": [
                 {
-                    "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7/info",
+                    "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
                     "Name": "Astral Bounds",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
@@ -208,7 +208,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_340bb99d-b515-46c6-a6d9-9b977a18e8fb/info",
+                    "ID": "wrld_340bb99d-b515-46c6-a6d9-9b977a18e8fb",
                     "Name": "Cafe Lapin",
                     "RecommendedCapacity": 12,
                     "Capacity": 16,
@@ -220,7 +220,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_7f3a6077-0183-4097-a837-f59e3f9d4a16/info",
+                    "ID": "wrld_7f3a6077-0183-4097-a837-f59e3f9d4a16",
                     "Name": "Pepiement",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -232,7 +232,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_e9ca960a-7b7b-4b2d-8133-5fe3d074512e/info",
+                    "ID": "wrld_e9ca960a-7b7b-4b2d-8133-5fe3d074512e",
                     "Name": "Starfarer",
                     "RecommendedCapacity": 30,
                     "Capacity": 80,
@@ -244,7 +244,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_60ad965e-e137-49c5-a7cd-bf80265c48d9/info",
+                    "ID": "wrld_60ad965e-e137-49c5-a7cd-bf80265c48d9",
                     "Name": "雨音 Sound of rain",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -256,7 +256,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_e13c9c14-0da2-43fb-a9cb-dc65b41ff2e7/info",
+                    "ID": "wrld_e13c9c14-0da2-43fb-a9cb-dc65b41ff2e7",
                     "Name": "水底のワンルーム-Deep Blue Hideaway-",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -268,7 +268,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_22acf040-22c8-4baa-acdb-56227a11c1ea/info",
+                    "ID": "wrld_22acf040-22c8-4baa-acdb-56227a11c1ea",
                     "Name": "おやすみみずうみ - Garden in amber -",
                     "RecommendedCapacity": 32,
                     "Capacity": 64,
@@ -280,7 +280,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_74682eb7-26a6-4eb6-9393-5025c22990e1/info",
+                    "ID": "wrld_74682eb7-26a6-4eb6-9393-5025c22990e1",
                     "Name": "べりのたき",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -292,7 +292,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_ecc56c7e-09f7-44ec-be4c-6982a2c604ef/info",
+                    "ID": "wrld_ecc56c7e-09f7-44ec-be4c-6982a2c604ef",
                     "Name": "Just Zero Gravity Spaceship",
                     "RecommendedCapacity": 8,
                     "Capacity": 16,
@@ -304,7 +304,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_020d2f7f-d586-4ded-8a70-d5245201a638/info",
+                    "ID": "wrld_020d2f7f-d586-4ded-8a70-d5245201a638",
                     "Name": "陽射しの廃駅-Abandoned station in the sunshine",
                     "RecommendedCapacity": 10,
                     "Capacity": 15,
@@ -316,7 +316,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_081568d8-3f1b-493b-bf0c-ecfe81400ae2/info",
+                    "ID": "wrld_081568d8-3f1b-493b-bf0c-ecfe81400ae2",
                     "Name": "Naroom ［Luminous Akihabara］",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -328,7 +328,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_550e0807-b0b5-492a-9490-b4b9a5625559/info",
+                    "ID": "wrld_550e0807-b0b5-492a-9490-b4b9a5625559",
                     "Name": "新宿-The Apartment",
                     "RecommendedCapacity": 40,
                     "Capacity": 60,
@@ -340,7 +340,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_6ae24d40-2fa8-4e6e-88df-c979a5db7653/info",
+                    "ID": "wrld_6ae24d40-2fa8-4e6e-88df-c979a5db7653",
                     "Name": "星屑の原",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -352,7 +352,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_2d04d462-333e-4e82-8d52-c2a326615eb5/info",
+                    "ID": "wrld_2d04d462-333e-4e82-8d52-c2a326615eb5",
                     "Name": "Rainfall Abyss -Aqua Sector-",
                     "RecommendedCapacity": 20,
                     "Capacity": 80,
@@ -364,7 +364,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5/info",
+                    "ID": "wrld_9871b411-0474-405e-8ea1-65cef7b388d5",
                     "Name": "月に君影",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -376,7 +376,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_cde3f509-36bf-445e-9dd5-498a181bd792/info",
+                    "ID": "wrld_cde3f509-36bf-445e-9dd5-498a181bd792",
                     "Name": "Glowing Jellyfish",
                     "RecommendedCapacity": 16,
                     "Capacity": 30,
@@ -388,7 +388,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3/info",
+                    "ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
                     "Name": "AQUA HEAVEN - Waterpark Pool",
                     "RecommendedCapacity": 30,
                     "Capacity": 40,
@@ -400,7 +400,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_f7a383bc-c925-4696-85c2-2996c0a40112/info",
+                    "ID": "wrld_f7a383bc-c925-4696-85c2-2996c0a40112",
                     "Name": "Deep Blue",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
@@ -412,7 +412,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_b2f921c2-8aa8-44a4-aae6-44d34b780e7f/info",
+                    "ID": "wrld_b2f921c2-8aa8-44a4-aae6-44d34b780e7f",
                     "Name": "夏、和室",
                     "RecommendedCapacity": 7,
                     "Capacity": 14,
@@ -424,7 +424,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb/info",
+                    "ID": "wrld_f0af0c41-6ed8-4e79-92a8-1ddd382e78bb",
                     "Name": "青天霹靂（夕）",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -436,7 +436,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_88e3c772-894f-418d-b9e5-96059af3d631/info",
+                    "ID": "wrld_88e3c772-894f-418d-b9e5-96059af3d631",
                     "Name": "Yayoi Summer Nights",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
@@ -448,7 +448,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_ce3d5b50-b247-4442-9078-758ca0127bce/info",
+                    "ID": "wrld_ce3d5b50-b247-4442-9078-758ca0127bce",
                     "Name": "Thad Recursive Room",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -460,7 +460,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_6bfb2407-1f1d-411b-bb6b-ccd13288774a/info",
+                    "ID": "wrld_6bfb2407-1f1d-411b-bb6b-ccd13288774a",
                     "Name": "NUCLEUS",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
@@ -472,7 +472,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_12fae8ad-da03-4c62-bdbc-1173713bd007/info",
+                    "ID": "wrld_12fae8ad-da03-4c62-bdbc-1173713bd007",
                     "Name": "秘密基地みたいなたまり場 ~Secret base House~",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -484,7 +484,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_49f816fc-0af3-4c48-b84a-4e0254a3aa42/info",
+                    "ID": "wrld_49f816fc-0af3-4c48-b84a-4e0254a3aa42",
                     "Name": "この部屋では何も起こらない - Ordinary Room",
                     "RecommendedCapacity": 10,
                     "Capacity": 10,
@@ -496,7 +496,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_3561853a-f983-423b-830c-41eecf3dbc4e/info",
+                    "ID": "wrld_3561853a-f983-423b-830c-41eecf3dbc4e",
                     "Name": "ぷらね邸 - PLANETEI",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -508,7 +508,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_13f15851-5366-4365-aca9-6f134b263cff/info",
+                    "ID": "wrld_13f15851-5366-4365-aca9-6f134b263cff",
                     "Name": "Yayoi summer rust",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -520,7 +520,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_b6d79769-91bb-4416-abbc-797e1598dcec/info",
+                    "ID": "wrld_b6d79769-91bb-4416-abbc-797e1598dcec",
                     "Name": "うたた寝の庭先 - Early summer gardens -",
                     "RecommendedCapacity": 32,
                     "Capacity": 64,
@@ -532,7 +532,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_ebc40dab-e142-41bc-bd64-1c82834b92b0/info",
+                    "ID": "wrld_ebc40dab-e142-41bc-bd64-1c82834b92b0",
                     "Name": "Ephemeris",
                     "RecommendedCapacity": 80,
                     "Capacity": 80,
@@ -544,7 +544,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_71eca28e-ee80-400c-9b53-dddc55c93124/info",
+                    "ID": "wrld_71eca28e-ee80-400c-9b53-dddc55c93124",
                     "Name": "Hearthwood",
                     "RecommendedCapacity": 32,
                     "Capacity": 40,
@@ -556,7 +556,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb/info",
+                    "ID": "wrld_f4e920ea-0bc3-402b-9d80-02691eeecbfb",
                     "Name": "THE Swimming Pool",
                     "RecommendedCapacity": 24,
                     "Capacity": 32,
@@ -568,7 +568,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab/info",
+                    "ID": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
                     "Name": "雪夢島 -Snow Reverie Island-",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
@@ -580,7 +580,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_1d638943-9cea-44f3-b975-6c2b6f73bbbd/info",
+                    "ID": "wrld_1d638943-9cea-44f3-b975-6c2b6f73bbbd",
                     "Name": "Nocturnadia",
                     "RecommendedCapacity": 12,
                     "Capacity": 32,
@@ -592,7 +592,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_797cb0ba-425b-46f1-ba03-c471881dfb0f/info",
+                    "ID": "wrld_797cb0ba-425b-46f1-ba03-c471881dfb0f",
                     "Name": "Caketail Home Party！",
                     "RecommendedCapacity": 10,
                     "Capacity": 30,
@@ -604,7 +604,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_cb7520cd-c6b5-43af-8cbf-b8dd281d3e85/info",
+                    "ID": "wrld_cb7520cd-c6b5-43af-8cbf-b8dd281d3e85",
                     "Name": "黯栖 lonely rest",
                     "RecommendedCapacity": 8,
                     "Capacity": 16,
@@ -616,7 +616,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68/info",
+                    "ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68",
                     "Name": "おいてけぼりの夏-Summer left behind-",
                     "RecommendedCapacity": 32,
                     "Capacity": 40,
@@ -628,7 +628,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_89112876-1c0d-429b-8901-6003ceac8404/info",
+                    "ID": "wrld_89112876-1c0d-429b-8901-6003ceac8404",
                     "Name": "群青コントレイル ~Blue Contrail ''Gunjo''~",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -640,7 +640,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_cc9aa6d6-263f-431d-a609-05b69f507ba9/info",
+                    "ID": "wrld_cc9aa6d6-263f-431d-a609-05b69f507ba9",
                     "Name": "くとぅるーむ -CTHRoom- Enjoy TRPG",
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
@@ -652,7 +652,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_84f03063-6013-43f6-a827-995a512a617e/info",
+                    "ID": "wrld_84f03063-6013-43f6-a827-995a512a617e",
                     "Name": "春空の休息地 -BloomingSky Rest-",
                     "RecommendedCapacity": 30,
                     "Capacity": 60,
@@ -664,7 +664,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca/info",
+                    "ID": "wrld_1051d8dc-7caf-4a1b-ba98-5e6a60f489ca",
                     "Name": "澄夏町学校 プール開放日 -School Swimming Pool in Summer-",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
@@ -681,7 +681,7 @@
             "Category": "gallery・exhibition",
             "Worlds": [
                 {
-                    "ID": "wrld_5187ce2f-9863-44f8-b396-70fb981b84f0/info",
+                    "ID": "wrld_5187ce2f-9863-44f8-b396-70fb981b84f0",
                     "Name": "体験作品「チュートリアリティ」",
                     "RecommendedCapacity": 4,
                     "Capacity": 16,
@@ -693,7 +693,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_a649f318-9aab-471a-9543-ac1064d220f1/info",
+                    "ID": "wrld_a649f318-9aab-471a-9543-ac1064d220f1",
                     "Name": "Just 蜃気楼の原理 -Just Shinkirou no Genri-",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -705,7 +705,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_f158272c-7134-484b-8c21-aa09f0f2da7d/info",
+                    "ID": "wrld_f158272c-7134-484b-8c21-aa09f0f2da7d",
                     "Name": "Record ˸ Beyond the Lens",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -717,7 +717,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_4176b649-a55c-4089-a89c-4c361cbfdeed/info",
+                    "ID": "wrld_4176b649-a55c-4089-a89c-4c361cbfdeed",
                     "Name": "Tribology World",
                     "RecommendedCapacity": 25,
                     "Capacity": 50,
@@ -729,7 +729,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_9d3dad3f-f33a-41c7-a51f-69e3aa0f2aa8/info",
+                    "ID": "wrld_9d3dad3f-f33a-41c7-a51f-69e3aa0f2aa8",
                     "Name": "Scale Journey",
                     "RecommendedCapacity": 16,
                     "Capacity": 16,
@@ -741,7 +741,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_9ac9ed36-adb0-491a-8757-d250f21c9bcf/info",
+                    "ID": "wrld_9ac9ed36-adb0-491a-8757-d250f21c9bcf",
                     "Name": "Eccentric Objects",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
@@ -753,7 +753,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc/info",
+                    "ID": "wrld_942421ba-becf-4907-b56f-47070cc816cc",
                     "Name": "Exhibition˸ 1٪ of Virtuality",
                     "RecommendedCapacity": 30,
                     "Capacity": 60,
@@ -765,7 +765,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_9f982dd8-144f-44a7-9752-8416dcbe572b/info",
+                    "ID": "wrld_9f982dd8-144f-44a7-9752-8416dcbe572b",
                     "Name": "Like a canvas",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -777,7 +777,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_f97a1f4c-daf1-4b12-88d4-25c14516b7a7/info",
+                    "ID": "wrld_f97a1f4c-daf1-4b12-88d4-25c14516b7a7",
                     "Name": "ヴァリアライド-Varea'Ride-",
                     "RecommendedCapacity": 8,
                     "Capacity": 16,
@@ -789,7 +789,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_ce96014b-bb0a-4060-9d09-1672824570ea/info",
+                    "ID": "wrld_ce96014b-bb0a-4060-9d09-1672824570ea",
                     "Name": "NearSighted Classroom",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
@@ -801,7 +801,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668/info",
+                    "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
                     "Name": "VR宇宙博物館 コスモリア Cosmoria［EN ⁄ JP ⁄ KR］",
                     "RecommendedCapacity": 25,
                     "Capacity": 50,
@@ -813,7 +813,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_e2288ae2-0028-44c6-8ed8-ec6bc8ade3e4/info",
+                    "ID": "wrld_e2288ae2-0028-44c6-8ed8-ec6bc8ade3e4",
                     "Name": "Monet Gallery モネ展",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -825,7 +825,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0/info",
+                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
                     "Name": "SoundLab",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -837,7 +837,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_d3d7e0db-030a-4fa3-8a2c-ecaa617e083a/info",
+                    "ID": "wrld_d3d7e0db-030a-4fa3-8a2c-ecaa617e083a",
                     "Name": "WorldGimmickSamples",
                     "RecommendedCapacity": 32,
                     "Capacity": 32,
@@ -849,7 +849,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_d3bd693d-1b07-4bff-b492-87011ff83b8a/info",
+                    "ID": "wrld_d3bd693d-1b07-4bff-b492-87011ff83b8a",
                     "Name": "Graviton",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -861,7 +861,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_486f153f-ba7a-4618-8d1e-1395c682576b/info",
+                    "ID": "wrld_486f153f-ba7a-4618-8d1e-1395c682576b",
                     "Name": "GravityWell",
                     "RecommendedCapacity": 25,
                     "Capacity": 50,
@@ -873,7 +873,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_663166d0-5e80-4643-9746-93b9558b89d1/info",
+                    "ID": "wrld_663166d0-5e80-4643-9746-93b9558b89d1",
                     "Name": "Animation Live ＂Escape＂",
                     "RecommendedCapacity": 30,
                     "Capacity": 60,
@@ -885,7 +885,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_c9370c40-45e2-4622-9a2d-9e210622d1c9/info",
+                    "ID": "wrld_c9370c40-45e2-4622-9a2d-9e210622d1c9",
                     "Name": "This Ship has 4 Years of Oxygen Remaining",
                     "RecommendedCapacity": 20,
                     "Capacity": 80,
@@ -902,7 +902,7 @@
             "Category": "game・transport",
             "Worlds": [
                 {
-                    "ID": "wrld_647cc858-abc3-4435-a31c-475190607788/info",
+                    "ID": "wrld_647cc858-abc3-4435-a31c-475190607788",
                     "Name": "R․B․T_V2［ハイスピード異能バトル］［PC‚Android］",
                     "RecommendedCapacity": 16,
                     "Capacity": 16,
@@ -914,7 +914,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_16a6759f-3e63-46e1-97d0-90b46cc69464/info",
+                    "ID": "wrld_16a6759f-3e63-46e1-97d0-90b46cc69464",
                     "Name": "Archery Time Trial",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -926,7 +926,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_aa4e7dc7-6e9e-47b2-bf93-e3be9520075a/info",
+                    "ID": "wrld_aa4e7dc7-6e9e-47b2-bf93-e3be9520075a",
                     "Name": "VRC-TV mast",
                     "RecommendedCapacity": 30,
                     "Capacity": 60,
@@ -938,7 +938,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_4b3b0a74-b96c-4d65-ae6d-547419b6ec9d/info",
+                    "ID": "wrld_4b3b0a74-b96c-4d65-ae6d-547419b6ec9d",
                     "Name": "UmigameSoup-ウミガメのスープ",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
@@ -950,7 +950,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_c5427f32-2460-434e-8b3b-823283afa019/info",
+                    "ID": "wrld_c5427f32-2460-434e-8b3b-823283afa019",
                     "Name": "PowderGame",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -962,7 +962,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd/info",
+                    "ID": "wrld_c7423848-bb22-4cba-9341-37d8b076b6fd",
                     "Name": "Tanksǃ",
                     "RecommendedCapacity": 10,
                     "Capacity": 20,
@@ -974,7 +974,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_038969d5-1a77-43d9-a435-ad1e9bf12542/info",
+                    "ID": "wrld_038969d5-1a77-43d9-a435-ad1e9bf12542",
                     "Name": "おえかき探偵 -Drawing Detective-",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -986,7 +986,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_3b0014d7-b82f-4249-bfc4-64f65815c4f3/info",
+                    "ID": "wrld_3b0014d7-b82f-4249-bfc4-64f65815c4f3",
                     "Name": "Colorful Dash -カラフルダッシュ",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -998,7 +998,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_c4fa7db7-ca0e-4f62-8742-bea8d49cb170/info",
+                    "ID": "wrld_c4fa7db7-ca0e-4f62-8742-bea8d49cb170",
                     "Name": "Play Game Now",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1010,7 +1010,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_0c893838-48d6-4174-8c98-5bd84b73ae4f/info",
+                    "ID": "wrld_0c893838-48d6-4174-8c98-5bd84b73ae4f",
                     "Name": "タイタンクラッシュ -TITAN CRASH- Ver․2․1",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1022,7 +1022,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_dc686db7-a9c0-46c5-ab23-fc5b82ed56fc/info",
+                    "ID": "wrld_dc686db7-a9c0-46c5-ab23-fc5b82ed56fc",
                     "Name": "VRC Disc Golf",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1034,7 +1034,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_ed804166-c0ba-44a8-999d-6190a6b30358/info",
+                    "ID": "wrld_ed804166-c0ba-44a8-999d-6190a6b30358",
                     "Name": "空島の旅2-冬島-（Sky Island Journey 2 -Winter Island-）",
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
@@ -1046,7 +1046,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_efe21499-58ed-482b-bfbd-be6ce0330ec7/info",
+                    "ID": "wrld_efe21499-58ed-482b-bfbd-be6ce0330ec7",
                     "Name": "ホップクライムC！",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1087,7 +1087,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b/info",
+                    "ID": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b",
                     "Name": "ガンナガン ⁄ GUN AND GUN",
                     "RecommendedCapacity": 32,
                     "Capacity": 40,
@@ -1099,7 +1099,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96/info",
+                    "ID": "wrld_7f2a5d7f-c4cc-4f68-b290-4a985a210a96",
                     "Name": "CODENAMES 2023［JP］",
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
@@ -1111,7 +1111,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_3990ea7f-a852-4f6b-9c80-973f915ed1e8/info",
+                    "ID": "wrld_3990ea7f-a852-4f6b-9c80-973f915ed1e8",
                     "Name": "ボードゲームルーム Board Game Room",
                     "RecommendedCapacity": 30,
                     "Capacity": 40,
@@ -1123,7 +1123,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_66c742e9-ff23-460b-b71f-84549fe4b6f5/info",
+                    "ID": "wrld_66c742e9-ff23-460b-b71f-84549fe4b6f5",
                     "Name": "『かわうち』ボードゲームワールド",
                     "RecommendedCapacity": 4,
                     "Capacity": 80,
@@ -1135,7 +1135,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_005121c7-61e8-433b-ba56-7181aa87b528/info",
+                    "ID": "wrld_005121c7-61e8-433b-ba56-7181aa87b528",
                     "Name": "勇者ムルルはサボりたい ボードゲーム",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1147,7 +1147,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_65d62c8d-64c8-4de6-8f88-2b0f4593a797/info",
+                    "ID": "wrld_65d62c8d-64c8-4de6-8f88-2b0f4593a797",
                     "Name": "たった今考えたプロポーズの言葉を君に捧ぐよ バトルロワイアル",
                     "RecommendedCapacity": 30,
                     "Capacity": 30,
@@ -1159,7 +1159,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_cb5bffcf-5c86-4c05-a7b4-8207f327c10b/info",
+                    "ID": "wrld_cb5bffcf-5c86-4c05-a7b4-8207f327c10b",
                     "Name": "Moon Animal War",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1171,7 +1171,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_e948245c-5334-4ce1-b0df-a7d481ea4327/info",
+                    "ID": "wrld_e948245c-5334-4ce1-b0df-a7d481ea4327",
                     "Name": "Machi Koro VR",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1183,7 +1183,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_116f8eee-ccea-4d7e-862c-509381602434/info",
+                    "ID": "wrld_116f8eee-ccea-4d7e-862c-509381602434",
                     "Name": "VRギブトレ - GiveMeTreasure",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1195,7 +1195,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40/info",
+                    "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
                     "Name": "［Game］ Join Wars ［JP․EN․KR․CN］",
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
@@ -1207,7 +1207,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_c55e3115-ba69-4000-83ff-8e1819543f5e/info",
+                    "ID": "wrld_c55e3115-ba69-4000-83ff-8e1819543f5e",
                     "Name": "こんちゃんコヨーテ！~Kon-chan Coyoteǃ~",
                     "RecommendedCapacity": 64,
                     "Capacity": 64,
@@ -1219,7 +1219,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_d708504a-3a34-4b33-8816-464a5bb1b04e/info",
+                    "ID": "wrld_d708504a-3a34-4b33-8816-464a5bb1b04e",
                     "Name": "Sokomade Kaihen",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1231,7 +1231,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_24067863-708c-479f-b25d-f696a37d2a4b/info",
+                    "ID": "wrld_24067863-708c-479f-b25d-f696a37d2a4b",
                     "Name": "Blokks",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
@@ -1255,7 +1255,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_642dd26e-224d-46db-ac38-d8840a8d49fa/info",
+                    "ID": "wrld_642dd26e-224d-46db-ac38-d8840a8d49fa",
                     "Name": "偉人カードバトル",
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
@@ -1267,7 +1267,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_44dbc368-941e-40e6-b6e0-eaf2aeaec16e/info",
+                    "ID": "wrld_44dbc368-941e-40e6-b6e0-eaf2aeaec16e",
                     "Name": "VRC_HIGHWAY",
                     "RecommendedCapacity": 8,
                     "Capacity": 16,
@@ -1279,7 +1279,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_2ba1a0c1-5d7a-4271-bc13-401157b35dcd/info",
+                    "ID": "wrld_2ba1a0c1-5d7a-4271-bc13-401157b35dcd",
                     "Name": "ブラッドリコール ⁄ BLOOD RECALL",
                     "RecommendedCapacity": 20,
                     "Capacity": 20,
@@ -1291,7 +1291,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_47c60092-5db3-4a61-9c30-f5777ce76baf/info",
+                    "ID": "wrld_47c60092-5db3-4a61-9c30-f5777ce76baf",
                     "Name": "Udon Catan ［JP］",
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
@@ -1308,7 +1308,7 @@
             "Category": "謎解き・脱出・puzzle",
             "Worlds": [
                 {
-                    "ID": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a/info",
+                    "ID": "wrld_98cc32f3-0ddc-4381-9bf2-ebb76a91e61a",
                     "Name": "謎解きポータルハブ「なぞいろは」-Nazotoki portal hub NazoIroha",
                     "RecommendedCapacity": 16,
                     "Capacity": 60,
@@ -1320,7 +1320,7 @@
                     }              
                 },
                 {
-                    "ID": "world/wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6/info",
+                    "ID": "world/wrld_eabdb9ab-09d6-4068-a118-e8c4ac2501f6",
                     "Name": "8Questions",
                     "RecommendedCapacity": 8,
                     "Capacity": 8,
@@ -1332,7 +1332,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_b8f09a42-c6db-44c6-9649-d858b75d1fd5/info",
+                    "ID": "wrld_b8f09a42-c6db-44c6-9649-d858b75d1fd5",
                     "Name": "探偵・謎川事件譚-仮想現実殺人事件-⁄satsujinjiken",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
@@ -1344,7 +1344,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_20bfc007-852a-42df-acd3-0d4caeae368f/info",
+                    "ID": "wrld_20bfc007-852a-42df-acd3-0d4caeae368f",
                     "Name": "謎解き 絶対にボタンを押させたくないネコチャン",
                     "RecommendedCapacity": 64,
                     "Capacity": 64,
@@ -1356,7 +1356,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_15c61667-c86e-491e-93a1-6e310e5638f2/info",
+                    "ID": "wrld_15c61667-c86e-491e-93a1-6e310e5638f2",
                     "Name": "KEYWORDS【 JP ⁄ EN 】",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1368,7 +1368,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_e4dcb205-8f8c-4a08-b899-87b0b2000ae2/info",
+                    "ID": "wrld_e4dcb205-8f8c-4a08-b899-87b0b2000ae2",
                     "Name": "時猛迫落からの脱出 -Escape From Any Traps-",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1380,7 +1380,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_9f00b76f-7b50-493b-b669-2636f3cf301c/info",
+                    "ID": "wrld_9f00b76f-7b50-493b-b669-2636f3cf301c",
                     "Name": "ふろーずん・わーど！-凍るタイムラインの謎-⁄FrozenWord",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1392,7 +1392,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_75aedc87-3557-45fe-b29d-740e6957ade5/info",
+                    "ID": "wrld_75aedc87-3557-45fe-b29d-740e6957ade5",
                     "Name": "謎解きワールド Rooms",
                     "RecommendedCapacity": 5,
                     "Capacity": 10,
@@ -1404,7 +1404,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_f9b3673a-f60d-4818-826a-a2387567ac3d/info",
+                    "ID": "wrld_f9b3673a-f60d-4818-826a-a2387567ac3d",
                     "Name": "謎解きワールド「Constellation Express ~星宿特急~」",
                     "RecommendedCapacity": 4,
                     "Capacity": 8,
@@ -1416,7 +1416,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_b6ce5d33-3b59-468e-af24-d18e17496552/info",
+                    "ID": "wrld_b6ce5d33-3b59-468e-af24-d18e17496552",
                     "Name": "謎解きワールド「温室博物館」",
                     "RecommendedCapacity": 8,
                     "Capacity": 8,
@@ -1428,7 +1428,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_c182398b-2539-4349-ab03-1fa720509df0/info",
+                    "ID": "wrld_c182398b-2539-4349-ab03-1fa720509df0",
                     "Name": "脱出ゲーム Platform",
                     "RecommendedCapacity": 8,
                     "Capacity": 8,
@@ -1440,7 +1440,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_795ddf7d-c059-442b-8108-6294b6dfdc2a/info",
+                    "ID": "wrld_795ddf7d-c059-442b-8108-6294b6dfdc2a",
                     "Name": "アスタリスクの花言葉",
                     "RecommendedCapacity": 10,
                     "Capacity": 20,
@@ -1452,7 +1452,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_04aec1b1-454f-41a0-bf35-13ae967cdaf4/info",
+                    "ID": "wrld_04aec1b1-454f-41a0-bf35-13ae967cdaf4",
                     "Name": "謎解き：0-1000tic",
                     "RecommendedCapacity": 6,
                     "Capacity": 12,
@@ -1464,7 +1464,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed/info",
+                    "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
                     "Name": "PROJECT˸ SUMMER FLARE",
                     "RecommendedCapacity": 4,
                     "Capacity": 8,
@@ -1476,7 +1476,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_b244b119-2497-4bdb-b239-cd47884e3c5a/info",
+                    "ID": "wrld_b244b119-2497-4bdb-b239-cd47884e3c5a",
                     "Name": "脱出ゲーム「殺人レストランからの脱出」",
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
@@ -1488,7 +1488,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_82bcab7f-8ae2-4f9d-a74d-d71f4ec02f08/info",
+                    "ID": "wrld_82bcab7f-8ae2-4f9d-a74d-d71f4ec02f08",
                     "Name": "PRESENT DAY",
                     "RecommendedCapacity": 5,
                     "Capacity": 30,
@@ -1500,7 +1500,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_4999db80-c145-47e5-9870-a6065de3260d/info",
+                    "ID": "wrld_4999db80-c145-47e5-9870-a6065de3260d",
                     "Name": "Simple Riddle ひらがなぞ",
                     "RecommendedCapacity": 64,
                     "Capacity": 64,
@@ -1512,7 +1512,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_d335c270-5571-464a-95a7-7662a65cc503/info",
+                    "ID": "wrld_d335c270-5571-464a-95a7-7662a65cc503",
                     "Name": "Triangular",
                     "RecommendedCapacity": 5,
                     "Capacity": 10,
@@ -1524,7 +1524,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_e7e04340-6437-45d2-ac78-f7c5d8178696/info",
+                    "ID": "wrld_e7e04340-6437-45d2-ac78-f7c5d8178696",
                     "Name": "貴女へ至る還り路 ~The Way to Athena~",
                     "RecommendedCapacity": 8,
                     "Capacity": 16,
@@ -1536,7 +1536,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_d0f0db54-5270-4b9e-8efb-5de805783ce9/info",
+                    "ID": "wrld_d0f0db54-5270-4b9e-8efb-5de805783ce9",
                     "Name": "プラネタリドル -PLANETARIDDLE",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1548,7 +1548,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_6b4d68a0-8010-4261-b1bd-61be8dec66b0/info",
+                    "ID": "wrld_6b4d68a0-8010-4261-b1bd-61be8dec66b0",
                     "Name": "協力なぞとき『ココロ＝ト＝ココロ』",
                     "RecommendedCapacity": 6,
                     "Capacity": 10,
@@ -1560,7 +1560,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_7a092275-aa12-46ef-9a53-c1d21968eda6/info",
+                    "ID": "wrld_7a092275-aa12-46ef-9a53-c1d21968eda6",
                     "Name": "謎解き「灯台島からの脱出」",
                     "RecommendedCapacity": 4,
                     "Capacity": 32,
@@ -1572,7 +1572,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_e437341b-cd7f-4d5c-ae30-bf19dea769e3/info",
+                    "ID": "wrld_e437341b-cd7f-4d5c-ae30-bf19dea769e3",
                     "Name": "Open The Door",
                     "RecommendedCapacity": 64,
                     "Capacity": 64,
@@ -1584,7 +1584,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_3a918e80-4045-455d-a230-5725e1d42044/info",
+                    "ID": "wrld_3a918e80-4045-455d-a230-5725e1d42044",
                     "Name": "April Waters",
                     "RecommendedCapacity": 8,
                     "Capacity": 40,
@@ -1596,7 +1596,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_77b927d7-592c-43f1-9f69-10bcdc061949/info",
+                    "ID": "wrld_77b927d7-592c-43f1-9f69-10bcdc061949",
                     "Name": "脱出ゲーム「JUST NO ESCAPE」",
                     "RecommendedCapacity": 4,
                     "Capacity": 8,
@@ -1608,7 +1608,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_09184947-d075-4f20-8c87-cc7359513b7d/info",
+                    "ID": "wrld_09184947-d075-4f20-8c87-cc7359513b7d",
                     "Name": "Cyan TimeSpace Lab ［JP․EN］",
                     "RecommendedCapacity": 8,
                     "Capacity": 16,
@@ -1625,7 +1625,7 @@
             "Category": "live・music",
             "Worlds": [
                 {
-                    "ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b/info",
+                    "ID": "wrld_8bbb6f61-61cf-4243-a58e-2000f2740e2b",
                     "Name": "よるとうげ -Yorutouge-",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1643,7 +1643,7 @@
             "Category": "portal",
             "Worlds": [
                 {
-                    "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832/info",
+                    "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
                     "Name": "［JP］ USiOPORT ウシヲポート",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
@@ -1655,7 +1655,7 @@
                     }              
                 },
                 {
-                    "ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2/info",
+                    "ID": "wrld_01e19bb8-dce9-4416-8d0d-dbcaa9324fb2",
                     "Name": "［JP］クエストトビラ QUEST TOBIRA",
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
@@ -1667,7 +1667,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_b4ea9be8-1f50-47c8-b0b7-fd09f6d2aea3/info",
+                    "ID": "wrld_b4ea9be8-1f50-47c8-b0b7-fd09f6d2aea3",
                     "Name": "虚々実々",
                     "RecommendedCapacity": 80,
                     "Capacity": 80,
@@ -1679,7 +1679,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_de9ce32c-26a9-42ad-b66f-f2eee24887fe/info",
+                    "ID": "wrld_de9ce32c-26a9-42ad-b66f-f2eee24887fe",
                     "Name": "パーティクルライブ全部見るPort",
                     "RecommendedCapacity": 32,
                     "Capacity": 32,
@@ -1691,7 +1691,7 @@
                     }
                 },
                 {
-                    "ID": "wrld_4165c26e-b033-4eea-a469-e5247048e39a/info",
+                    "ID": "wrld_4165c26e-b033-4eea-a469-e5247048e39a",
                     "Name": "VRAA02 Portal World",
                     "RecommendedCapacity": 40,
                     "Capacity": 80,
