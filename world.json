@@ -6,18 +6,6 @@
             "Category": "favorite",
             "Worlds": [
                 {
-                    "ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
-                    "Name": "Astral Bounds",
-                    "RecommendedCapacity": 40,
-                    "Capacity": 80,
-                    "Description": "V1․44 - A wall to preserve the edge of the world from being filled up by reality․ Recent Update˸ Made whales slightly easier to ride․",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }              
-                },
-                {
                     "ID": "wrld_a6b250e5-4aa0-4607-8260-4ef51b125ed0",
                     "Name": "Maybe‚ Unobservable",
                     "RecommendedCapacity": 15,
@@ -1075,7 +1063,7 @@
             "Category": "boardgame",
             "Worlds": [
                 {
-                    "ID": "wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d/info",
+                    "ID": "wrld_0218a13c-e65f-4cf4-8cf7-0598c9f4e81d",
                     "Name": "ボドゲポータル",
                     "RecommendedCapacity": 80,
                     "Capacity": 80,
