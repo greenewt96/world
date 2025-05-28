@@ -1046,15 +1046,27 @@
                     }              
                 },
                 {
-                    "ID": "",
-                    "Name": "",
+                    "ID": "world/wrld_0ec97c4f-1e84-4a3a-9e3a-fa3075b6c56d",
+                    "Name": "Ghost - Police Office",
                     "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "",
+                    "Capacity": 24,
+                    "Description": "Beta build for a Ghost game rework․ If you find any bugs‚ or have any feedback‚ please report to my discord․",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
-                        "Android": false
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_df01edfe-da30-4e6a-a1fb-a0cc534abf06",
+                    "Name": "Ghost - Haunted House",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "Looting‚ Shooting‚ Detective Game․ Support max 24 players․ It's a bit complicated system‚ so if any glitch happened‚ rejoining the world usually helps․ Apology for any inconvenience․",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
                     }              
                 }
             ]
@@ -1284,6 +1296,30 @@
                     "RecommendedCapacity": 12,
                     "Capacity": 24,
                     "Description": "カタンが遊べるUdonワールドです。カタンのルールは各自で調べてください。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_2bed7b65-7b9d-43e8-8ef1-2ce3f02c42d6",
+                    "Name": "ケモノ調査団～けもの島と2つの秘薬～",
+                    "RecommendedCapacity": 6,
+                    "Capacity": 16,
+                    "Description": "オリジナルボードゲームが遊べるワールドです。ルールが簡単でボドゲ初心者でも遊べます。ケモノ達と調査団を結成し、ダイスで探索して秘薬調合の素材を集めよう。 プレイ人数2-6人 所要時間15-30分 5⁄28 アップデートしました",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
+                    "Name": "Tiharuum - ちはるーむ",
+                    "RecommendedCapacity": 12,
+                    "Capacity": 24,
+                    "Description": "色んな人が普段使いしやすいワールドを目指して作りました！オリジナルで使いやすい動画タブレット、拡張メニューに30以上のゲーム、料理ギミック、アバター展示もあります。動作負荷も非常に軽いです。（更新日˸25⁄5⁄1）",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
