@@ -1046,11 +1046,11 @@
                     }              
                 },
                 {
-                    "ID": "wrld_0ec97c4f-1e84-4a3a-9e3a-fa3075b6c56d",
-                    "Name": "Ghost - Police Office",
-                    "RecommendedCapacity": 16,
+                    "ID": "wrld_df01edfe-da30-4e6a-a1fb-a0cc534abf06",
+                    "Name": "Ghost - Haunted House",
+                    "RecommendedCapacity": 12,
                     "Capacity": 24,
-                    "Description": "Beta build for a Ghost game rework․ If you find any bugs‚ or have any feedback‚ please report to my discord․",
+                    "Description": "Looting‚ Shooting‚ Detective Game․ Support max 24 players․ It's a bit complicated system‚ so if any glitch happened‚ rejoining the world usually helps․ Apology for any inconvenience․",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
@@ -1058,11 +1058,11 @@
                     }              
                 },
                 {
-                    "ID": "wrld_df01edfe-da30-4e6a-a1fb-a0cc534abf06",
-                    "Name": "Ghost - Haunted House",
-                    "RecommendedCapacity": 12,
+                    "ID": "wrld_0ec97c4f-1e84-4a3a-9e3a-fa3075b6c56d",
+                    "Name": "Ghost - Police Office",
+                    "RecommendedCapacity": 16,
                     "Capacity": 24,
-                    "Description": "Looting‚ Shooting‚ Detective Game․ Support max 24 players․ It's a bit complicated system‚ so if any glitch happened‚ rejoining the world usually helps․ Apology for any inconvenience․",
+                    "Description": "Beta build for a Ghost game rework․ If you find any bugs‚ or have any feedback‚ please report to my discord․",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
