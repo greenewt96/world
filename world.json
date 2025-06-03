@@ -1068,6 +1068,18 @@
                         "PC": true,
                         "Android": true
                     }              
+                },
+                {
+                    "ID": "wrld_ab68f896-a21f-4d72-a016-5a0a42c3158f",
+                    "Name": "Putt Putt Pond",
+                    "RecommendedCapacity": 15,
+                    "Capacity": 30,
+                    "Description": "Golf with friends․․․ in VRǃ Play on two 18 hole courses with fully scripted mini golf plus other gamesǃ",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
                 }
             ]
         },
@@ -1637,6 +1649,30 @@
                     "RecommendedCapacity": 8,
                     "Capacity": 16,
                     "Description": "グラビティプルと時間操作で物理パズルを解こう Solve physics puzzles by gravity and time manipulation",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_66aad73f-0a73-4978-8203-823f995874a6",
+                    "Name": "Hedera",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "Hedera ⁄ Riddle world ⁄ Play time ˸ 1 hour ⁄ Gimmicks ˸ Local ⁄ ＃VRC_Hedera",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_9640fca1-64ec-4780-857c-5383e4cdc60d",
+                    "Name": "謎解きワールド O'clock",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "針を進めてゴールを目指そう。時計や数字がモチーフの謎解きワールドです。 全12問 ヒントあり＃VRC_clock",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
