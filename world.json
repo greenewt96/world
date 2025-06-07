@@ -30,6 +30,18 @@
                     }
                 },
                 {
+                    "ID": "wrld_048f7c5d-9e3e-4c19-8d5d-ddc58eced3a4",
+                    "Name": "Stay gold ~夜の唄~",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "",
+                    "ReleaseStatus": "private",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
                     "ID": "wrld_61c40c8f-68c9-4e78-8242-b48a9c0f4054",
                     "Name": "Abyssal",
                     "RecommendedCapacity": 20,
@@ -112,7 +124,19 @@
                         "PC": true,
                         "Android": true
                     }              
-                }                
+                },
+                {
+                    "ID": "wrld_d141fbfd-9640-4c8e-afb1-027685ea68dd",
+                    "Name": "What Is Virtual Art - Volume 1",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "Welcome to our group exhibition【What Is Virtual Art - Volume 1】‚ available in English and Chinese․ 丨 250606",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                }           
             ]
         },
         {
