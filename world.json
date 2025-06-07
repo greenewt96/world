@@ -1195,18 +1195,6 @@
                     }              
                 },
                 {
-                    "ID": "wrld_116f8eee-ccea-4d7e-862c-509381602434",
-                    "Name": "VRギブトレ - GiveMeTreasure",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "VRギブトレ - GiveMeTreasure Board game World․ Play time 15 to 30 minutes․ 2 to 4 players․ Powered by CatsUdon․ VR Production Virtual Party Inc․ Original by SUSABI GAMES",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }              
-                },
-                {
                     "ID": "wrld_df24020d-d60c-404a-b20f-51b37220ee40",
                     "Name": "［Game］ Join Wars ［JP․EN․KR․CN］",
                     "RecommendedCapacity": 12,
@@ -1673,6 +1661,18 @@
                     "RecommendedCapacity": 16,
                     "Capacity": 32,
                     "Description": "針を進めてゴールを目指そう。時計や数字がモチーフの謎解きワールドです。 全12問 ヒントあり＃VRC_clock",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_4d3fd65d-8874-4479-959d-7bfdf3cabe7f",
+                    "Name": "謎解きワールド「潜火工房」",
+                    "RecommendedCapacity": 1,
+                    "Capacity": 5,
+                    "Description": "地下室内の謎を解く、ギミック系謎解きワールド⁄PCオンリー⁄30分想定⁄推奨人数1～5人⁄Desktop可⁄一応途中参加可能ですが、同期はしません⁄ ：このワールドにはVRC貴族部サロンの非公式コンテンツを含みます：アストラヴェールの港町フォグコースト。古びた倉庫で昔の新聞を拾ったあなたは、不思議な地下室「潜火工房」へと迷い込む。薬品のにおいが漂うここは、どうやら過去の世界のようだ。何があったのか、手がかりを探してみよう。",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
